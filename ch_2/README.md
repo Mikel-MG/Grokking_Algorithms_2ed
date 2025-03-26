@@ -56,7 +56,7 @@ Arrays are used more often than linked lists except in specific use cases.
 
 The `selection sort` algorithm works by, for a given list of items:
 * Selecting the highest or lowest one, and appending it to a new list
-* Deleteing that item from the original list
+* Deleting that item from the original list
 * Repeat
 
 How long will take to run this algorithm? We will have to through every item ($O(n)$) a number of times equal to the length of the list ($O(n)$). In other words, the `selection sort` algorithm will take $O(n \times n) = O(n^2)$ time.
