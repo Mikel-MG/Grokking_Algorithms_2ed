@@ -6,3 +6,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 2: selection sort](ch_2/)
 
 [Chapter 3: recursion](ch_3/)
+
+[Chapter 4: quicksort](ch_4/)
