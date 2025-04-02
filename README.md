@@ -8,3 +8,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 3: recursion](ch_3/)
 
 [Chapter 4: quicksort](ch_4/)
+
+[Chapter 5: hash tables](ch_5/)
