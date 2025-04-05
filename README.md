@@ -10,3 +10,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 4: quicksort](ch_4/)
 
 [Chapter 5: hash tables](ch_5/)
+
+[Chapter 6: breadth-first search](ch_6/)
