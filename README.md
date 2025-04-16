@@ -14,3 +14,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 6: breadth-first search](ch_6/)
 
 [Chapter 7: trees](ch_7/)
+
+[Chapter 8: balanced trees](ch_8/)
