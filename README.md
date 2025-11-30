@@ -18,3 +18,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 8: balanced trees](ch_8/)
 
 [Chapter 9: Dijkstra's algorithm](ch_9/)
+
+[Chapter 10: greedy algorithms](ch_10/)
