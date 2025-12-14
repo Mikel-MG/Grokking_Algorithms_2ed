@@ -20,3 +20,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 9: Dijkstra's algorithm](ch_9/)
 
 [Chapter 10: greedy algorithms](ch_10/)
+
+[Chapter 11: dynamic programming](ch_11/)
