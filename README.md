@@ -22,3 +22,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 10: greedy algorithms](ch_10/)
 
 [Chapter 11: dynamic programming](ch_11/)
+
+[Chapter 12: k-nearest neighbors](ch_12/)
