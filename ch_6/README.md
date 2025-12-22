@@ -48,7 +48,7 @@ In the beginning of this chapter we saw an example of a question of type 2 (what
 Suppose you want to know whether you are connected to someone on a particular network, say, your group of friends (in other words, is there a path between you and the person you are interested in?).
 
 1) Let us start with your own friends. Is the person you are interested your direct friend? If not, let us widen the search to include the friends of your friends.
-2) Is any of your friends' friends the person you are interested in? If not, let us widen the search to icnlude the friends of your friends' friends.
+2) Is any of your friends' friends the person you are interested in? If not, let us widen the search to include the friends of your friends' friends.
 3) ...
 
 
