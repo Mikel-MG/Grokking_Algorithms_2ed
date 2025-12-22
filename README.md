@@ -24,3 +24,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 11: dynamic programming](ch_11/)
 
 [Chapter 12: k-nearest neighbors](ch_12/)
+
+[Chapter 13: where to go next](ch_13/)
