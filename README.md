@@ -26,3 +26,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 12: k-nearest neighbors](ch_12/)
 
 [Chapter 13: where to go next](ch_13/)
+
+[Appendix A: performance of AVL trees](z_Appendix_A/)
