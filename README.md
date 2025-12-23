@@ -28,3 +28,5 @@ Summary / Code examples / Exercises from the book Grokking Algorithms by Aditya 
 [Chapter 13: where to go next](ch_13/)
 
 [Appendix A: performance of AVL trees](z_Appendix_A/)
+
+[Appendix B: NP-hard problems](z_Appendix_B/)
