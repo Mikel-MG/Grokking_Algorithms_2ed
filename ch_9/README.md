@@ -362,4 +362,4 @@ start -> A -> B -> finish
 
 The graph has a trivial structure consisting of 5 nodes connected in up-and-down zig-zag, start and finish nodes being the top left and top right ones (there is a node between them). There is a -1 weight connecting the bottom right node to the bottom-left one. 
 
-**Answer**: 4. Although Dijkstra's algorithm cannot be used for graphs with negative-weight edges, tn this case, accounting for the negative edge is not necessary as is not part of the optimal solution.
+**Answer**: 4. Although Dijkstra's algorithm cannot be used for graphs with negative-weight edges, in this case, accounting for the negative edge is not necessary as is not part of the optimal solution.
